@@ -15,6 +15,7 @@ La metodología se basa en la comprensión profunda de cada tema mediante el uso
 
 El contenido principal del curso se encuentra en el archivo:
 * **[Plan de Estudios Completo de Ingeniería de Software](software-engineering-101.md)**: Este archivo contiene el desglose detallado de los módulos, temas y los prompts específicos para profundizar en cada sección.
+* **[Plan de Estudios Completo Avanzado de Ingeniería de Software](software-engineering-102.md)**: Este archivo contiene el desglose detallado de los módulos, temas y los prompts específicos para profundizar en cada sección.
 
 ## Cómo Usar Este Repositorio 🧐
 
