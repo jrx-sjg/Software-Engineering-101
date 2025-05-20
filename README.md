@@ -9,7 +9,7 @@
 
 Este repositorio alberga un plan de estudios personal y en evolución para el autoaprendizaje de la Ingeniería de Software. El objetivo es construir una base sólida en los principios fundamentales, herramientas y prácticas de la disciplina, progresando hacia temas más avanzados y especializados.
 
-La metodología se basa en la comprensión profunda de cada tema mediante el uso de *prompts* detallados (proporcionados en el [Plan de Estudios Completo](nombre_del_archivo_principal.md)) diseñados para ser utilizados con asistentes de Inteligencia Artificial, fomentando así una investigación activa y la obtención de explicaciones extensas.
+La metodología se basa en la comprensión profunda de cada tema mediante el uso de *prompts* detallados (proporcionados en el los archivos .md en la raíz de este proyecto) diseñados para ser utilizados con asistentes de Inteligencia Artificial, fomentando así una investigación activa y la obtención de explicaciones extensas.
 
 ## Hoja de Ruta / Contenido del Curso 🗺️
 
